@@ -10,7 +10,7 @@
 </div>
 <br>
 
-programmer/Developer
+Programmer/Developer
 
 ## CONTATO:
 - [aurynerdev@gmail.com]()
