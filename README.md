@@ -20,8 +20,9 @@
 ![My Skills](https://skills.thijs.gg/icons?i=nextjs,react,tailwind,nodejs,figma&theme=dark)
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCode</strong>
+  💎 Ferramentas: 
 </p>
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 
 <div>
   <img height="125em" src="https://github-readme-stats.vercel.app/api?username=aurynerdev&show_icons=true&theme=dracula&include_all_commits=true">
