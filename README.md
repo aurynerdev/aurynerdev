@@ -25,7 +25,7 @@
 
 <div>
   <img height="125em" src="https://github-readme-stats.vercel.app/api?username=aurynerdev&show_icons=true&theme=dracula&include_all_commits=true">
-  <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aurynerdev&layout-compact&langs_count=16&theme=dracula">
+  <img height="125em" width="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aurynerdev&layout-compact&langs_count=16&theme=dracula">
 </div>
 <br>
 
