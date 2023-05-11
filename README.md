@@ -27,19 +27,19 @@
   <img height="125em" src="https://github-readme-stats.vercel.app/api?username=aurynerdev&show_icons=true&theme=dracula&include_all_commits=true">
   <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aurynerdev&layout-compact&langs_count=16&theme=dracula">
 </div>
+<br>
 
 <p align="left">
   💌 Qualquer coisa entre em contato comigo por alguma dessas redes sociais: ⤵️
 </p>
-<p>
+
+<p align="left">
 <a href="https://www.instagram.com/1.aury/" alt="Instagram">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
-<p>
+
 <a href="mailto:aurynerdev@gmail.com" alt="Gmail">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p> 
-<p align="left">
+
 <a href="https://twitter.com/AuryMacro" alt="Twitter">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-</p>
+
