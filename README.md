@@ -33,10 +33,10 @@
 </p>
 
 <a href="https://www.instagram.com/1.aury/" alt="Instagram">
-<img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   
 <a href="mailto:aurynerdev@gmail.com" alt="Gmail">
-<img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p> 
 <p align="left">
 <a href="https://twitter.com/AuryMacro" alt="Twitter">
