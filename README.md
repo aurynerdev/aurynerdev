@@ -10,7 +10,7 @@
   👨‍💻 Linguagens:
 </p>
 
-![My Skills](https://skills.thijs.gg/icons?i=html,css,js&theme=dark)
+![My Skills](https://skills.thijs.gg/icons?i=html,css,js,py&theme=dark)
 
 
 <p align="left">
