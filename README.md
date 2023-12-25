@@ -2,7 +2,7 @@
   <img align="right" style="float: right" src="https://i.pinimg.com/originals/84/e8/47/84e84792bd2f7489443c4bdbc20e182c.png" alt="Ilustração programador" width="400px" height="400px">
 
   <p align="left"> 
-   🤗 Opa! Meu nome é Aury Santos, tenho 18 anos e sou um estudante de programação com foco em me tornar um programador <strong>Full Stack</strong>.<br>
+   🤗 Opa! Meu nome é Aury Santos, tenho 19 anos e sou um estudante de programação com foco em me tornar um programador <strong>Full Stack</strong>.<br>
   </p>
 </div>
 
